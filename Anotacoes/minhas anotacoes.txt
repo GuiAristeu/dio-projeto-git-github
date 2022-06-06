@@ -1,0 +1,10 @@
+untracked - > git ainda não tem ciência da existência dos arquivos
+
+unmodified - > arquivo ainda não modificado
+
+modified - > arquivo editado
+
+staged - > arquivos adicionados e prontos para ser comitados
+
+
+ao ser comitado, o arquivo volta para o estado unmodified
